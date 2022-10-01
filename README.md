@@ -1,2 +1,2 @@
 # Instaclone
-https://zingy-pothos-d2159f.netlify.app/
+https://effortless-druid-93e1ef.netlify.app/
